@@ -4,7 +4,7 @@ A small fork/workaround of [Vorssaint](https://github.com/vorssaint/vorssaint-ut
 
 The official Homebrew cask currently requires Apple Silicon, but Vorssaint itself can be compiled and run on Intel Macs by changing the build target.
 
-This fork does not try to reinvent the project. It just documents the workaround.
+This repository does not contain a modified version of Vorssaint. It only documents the steps required to build it for Intel Macs.
 
 ## Intel Mac
 
